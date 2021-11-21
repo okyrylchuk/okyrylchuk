@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Oleg. <br />
+I tweet about .NET features on Twitter @okyrylchuk and publish my samples on GitHub.
 <!--
 **okyrylchuk/okyrylchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
