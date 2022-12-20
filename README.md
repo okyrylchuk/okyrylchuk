@@ -5,6 +5,8 @@ I'm Oleg.
 I tweet about .NET features on Twitter [@okyrylchuk](https://twitter.com/okyrylchuk) and publish my samples on GitHub.
 
 Also I have a [blog](https://blog.okyrylchuk.dev/)
+
+<a rel="me" href="https://dotnet.social/@okyrylchuk">Mastodon</a>
 <!--
 **okyrylchuk/okyrylchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
