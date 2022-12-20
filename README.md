@@ -6,7 +6,7 @@ I tweet about .NET features on Twitter [@okyrylchuk](https://twitter.com/okyrylc
 
 Also I have a [blog](https://blog.okyrylchuk.dev/)
 
-<a rel="me" href="https://dotnet.social/@okyrylchuk">Mastodon</a>
+I am on Mastadon: <a href="https://dotnet.social/@okyrylchuk" rel="me">https://dotnet.social/@okyrylchuk</a>
 <!--
 **okyrylchuk/okyrylchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
