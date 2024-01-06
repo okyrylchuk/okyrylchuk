@@ -2,11 +2,9 @@
 
 I'm Oleg.
 
-I tweet about .NET features on Twitter [@okyrylchuk](https://twitter.com/okyrylchuk) and publish my samples on GitHub.
+I'm a Microsoft MVP and .NET Content Creator. 
 
-Also I have a [blog](https://blog.okyrylchuk.dev/)
-
-I am on Mastadon: <a href="https://dotnet.social/@okyrylchuk" rel="me">https://dotnet.social/@okyrylchuk</a>
+I run a newsletter about what's new in .NET - <a href="https://okyrylchuk.dev/">.NET Pulse</a>.
 <!--
 **okyrylchuk/okyrylchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
